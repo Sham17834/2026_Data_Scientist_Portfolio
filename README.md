@@ -1,4 +1,3 @@
-
 ## About Me
 
 I build **machine learning solutions** that solve real-world business problems, focusing on data-driven decision-making in the **Fintech** and **E-commerce** sectors.
@@ -23,7 +22,7 @@ I care about building models that are:
 
 ---
 
-## Credit Risk Prediction for Digital Banking
+## 1. Credit Risk Prediction for Digital Banking
 
 ### Objective
 
@@ -48,7 +47,7 @@ Credit scoring is critical for digital banks operating in Malaysia’s growing f
 
 ---
 
-## Amazon Order Delay Prediction
+## 2. Amazon Order Delay Prediction
 
 ### Objective
 
