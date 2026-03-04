@@ -1,48 +1,98 @@
 
 ## About Me
 
-I am a final-year student **currently seeking a Data Science Internship** . I specialize in building machine learning solutions that solve real-world business problems, with a focus on the Fintech and E-commerce sectors.
+I build **machine learning solutions** that solve real-world business problems, focusing on data-driven decision-making in the **Fintech** and **E-commerce** sectors.
 
-My expertise lies in:
+I care about building models that are:
 
-* **Handling large, imbalanced datasets** to ensure model fairness and accuracy.
-* **Feature Engineering** that aligns with industry-specific business logic.
-* **Translating complex model outputs** into actionable insights for stakeholders.
+* Accurate
+* Business-aligned
+* Interpretable
+* Practical for deployment
 
----
+### Core Strengths
 
-## Projects
-
-### 1. Credit Risk Prediction for Digital Banking 
-
-**Objective:** Identify high-risk loan applicants using historical financial data to support risk mitigation for digital banks (e.g., GXBank, Boost Bank).
-
-* **Context:** In the Malaysian market, accurate credit scoring is essential for expanding financial inclusion while maintaining low default rates.
-* **Technical Highlights:** * Managed a dataset of  **148,000+ records** .
-  * Engineered a `loan_income_ratio` to better capture borrower debt stress.
-  * Addressed class imbalance using `class_weight='balanced'`.
-* **Model:** Logistic Regression.
-* **Impact:** Achieved a **Recall of 71%** and  **ROC-AUC of 0.869** , prioritizing the detection of potential defaulters.
-
-### 2. Amazon Order Delay Prediction 
-
-**Objective:** Build a logistics intelligence engine to predict order delays and cancellations, enabling proactive supply chain management.
-
-* **Context:** Helping e-commerce operations intervene early to prevent customer dissatisfaction and reduce logistical costs.
-* **Technical Highlights:** * Processed  **100,000+ historical logistics records** .
-  * Utilized Label Encoding and Feature Scaling for high-dimensional data.
-* **Model:** `RandomForestClassifier`.
-* **Impact:** Achieved a high  **Accuracy of 96.06%** , providing a reliable flagging system for warehouse operations.
+* Handling **large, imbalanced datasets**
+* Industry-driven **Feature Engineering**
+* Translating model outputs into **clear business insights**
+* Strong understanding of **model evaluation metrics**
 
 ---
 
-## Technical Skills
-
-| **Category**         | **Skills & Tools**                                                   |
-| -------------------------- | -------------------------------------------------------------------------- |
-| **Programming**      | Python (Pandas, NumPy, Matplotlib, Seaborn)                                |
-| **Machine Learning** | Supervised Learning (Logistic Regression, Random Forest), Model Evaluation |
-| **Data Engineering** | Missing Value Imputation, One-Hot Encoding, Feature Scaling                |
-| **Tools**            | Jupyter Notebook, Git, GitHub                                              |
+# Featured Projects
 
 ---
+
+## Credit Risk Prediction for Digital Banking
+
+### Objective
+
+Predict high-risk loan applicants to support digital banks in reducing default rates while expanding financial inclusion.
+
+### Business Context
+
+Credit scoring is critical for digital banks operating in Malaysia’s growing fintech ecosystem.
+
+### Technical Approach
+
+* Dataset: **148,000+ loan records**
+* Engineered feature: `loan_income_ratio`
+* Addressed class imbalance using `class_weight='balanced'`
+* Applied Logistic Regression with structured preprocessing pipeline
+
+### Results
+
+* **Recall:** 71%
+* **ROC-AUC:** 0.869
+* Prioritized detection of potential defaulters for better risk control
+
+---
+
+## Amazon Order Delay Prediction
+
+### Objective
+
+Predict order delays and cancellations to enable proactive logistics management.
+
+### Business Context
+
+Helps e-commerce platforms reduce customer dissatisfaction and operational costs.
+
+### Technical Approach
+
+* Dataset: **100,000+ logistics records**
+* Applied Label Encoding & Feature Scaling
+* Built `RandomForestClassifier` model
+* Designed full preprocessing + evaluation workflow
+
+### Results
+
+* **Accuracy:** 96.06%
+* Created reliable early-warning system for warehouse operations
+
+---
+
+# Technical Skills
+
+### Programming
+
+* Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+### Machine Learning
+
+* Logistic Regression
+* Random Forest
+* Model Evaluation (Recall, ROC-AUC, Accuracy)
+
+### Data Processing
+
+* Missing Value Imputation
+* One-Hot Encoding
+* Feature Scaling
+* Handling Imbalanced Data
+
+### Tools
+
+* Jupyter Notebook
+* Git
+* GitHub
